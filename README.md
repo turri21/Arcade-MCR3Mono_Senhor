@@ -1,6 +1,6 @@
 -=(MCR3Mono_Senhor notes)=-
 
-Tested: Working Video 720p, 1080p & Sound
+Tested: Working Video 720p, 1080p & Sound.
 
 ___
 # Midway MCR Monoboard port for MiSTer
